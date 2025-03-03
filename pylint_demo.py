@@ -1,13 +1,13 @@
-def add(a, b):
+def sum(a, b):
     return a + b
 
 
-def greet(name):
+def hello(name):
     print(f"Hello, {name}!")
 
 
-greet("Alice")
-greet()
+hello("Alice")
+hello()
 
 
 def calculate():
