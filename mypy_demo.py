@@ -1,3 +1,5 @@
+"""Demo file for mypy linter."""
+
 def add(a: int, b: int) -> int:
     """Adds two integers."""
     return a + b
